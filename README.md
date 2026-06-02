@@ -4,18 +4,18 @@ A modern, enterprise-grade Inventory and Order Management platform designed to s
 
 ## Features
 
--Product CRUD with SKU uniqueness, search, filters, categories, and low-stock indicators
--Customer CRUD with unique email validation
--Order creation with automatic total calculation and stock reduction
--Stock-safe backend validation for insufficient inventory
--Analytics dashboard with stats cards, line/bar/pie charts, low-stock data, and recent activity
--Responsive SaaS-style UI with glass surfaces, dark/light mode, motion, modals, toasts, and data tables
--Docker Compose setup for frontend, backend, and PostgreSQL
--Deployment-ready environment examples and provider notes
--Frontend: React, TypeScript, Tailwind CSS, React Query, Framer Motion, Recharts
--Backend: FastAPI, Python
--Database: PostgreSQL
--DevOps & Deployment: Docker, Docker Compose
+Product CRUD with SKU uniqueness, search, filters, categories, and low-stock indicators
+Customer CRUD with unique email validation
+Order creation with automatic total calculation and stock reduction
+Stock-safe backend validation for insufficient inventory
+Analytics dashboard with stats cards, line/bar/pie charts, low-stock data, and recent activity
+Responsive SaaS-style UI with glass surfaces, dark/light mode, motion, modals, toasts, and data tables
+Docker Compose setup for frontend, backend, and PostgreSQL
+Deployment-ready environment examples and provider notes
+Frontend: React, TypeScript, Tailwind CSS, React Query, Framer Motion, Recharts
+Backend: FastAPI, Python
+Database: PostgreSQL
+DevOps & Deployment: Docker, Docker Compose
 
 ## Local Development
 
